@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">上传文件到服务器</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="_inputpath">请输入文件路径</string>
+    <string name="_uploadfile">上传</string>
+
+</resources>
